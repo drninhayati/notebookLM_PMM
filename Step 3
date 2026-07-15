@@ -2,3 +2,38 @@ Step 3:
 1. Analyze the uploaded slides and identify the key concepts and main topics covered in the material.
 2. Summarize the content into the most important learning points for diploma engineering students.
 3. Organize the key concepts from the uploaded material into a logical lecture structure suitable for a 1–2 hour class.
+
+
+PROMPT SLIDE:
+Transform the uploaded teaching material into 20 modern lecture slides suitable for diploma engineering students in TVET.
+Content requirements:
+• Use clear and concise slide titles
+• Use bullet points instead of long paragraphs
+• Highlight key concepts and important keywords
+• Keep explanations simple and easy to understand
+• Include practical or real-world examples related to engineering or IoT applications
+• Ensure logical flow from introduction to summary
+Design requirements:
+• Use a clean and modern slide layout
+• Suggested color theme: dark blue, grey, and white for a professional academic look
+• Use sans-serif fonts such as Montserrat, Poppins, or Open Sans
+• Use large readable font sizes (Title: 36–44 pt, Content: 24–28 pt)
+• Maintain consistent spacing and alignment
+• Avoid overcrowding slides
+Visual elements:
+• Suggest diagrams or visuals where appropriate
+• Include architecture diagrams for system explanations
+• Include process flow diagrams for workflows
+• Use icons to represent concepts (network, sensor, cloud, data)
+• Highlight key points using visual callouts
+Slide structure:
+Topic overview
+2–4. Key concepts
+5–7. System architecture or process explanation
+8–12. Technical explanation with examples
+13–16. Real-world applications
+17–18. Key concept summary
+Discussion questions
+Final summary
+Ensure the slides are visually clear, engaging, and suitable for classroom teaching.
+
